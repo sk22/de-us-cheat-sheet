@@ -1,7 +1,7 @@
 # US keyboard layout
 Cheat Sheet for German keyboards
 
-![layout](https://upload.wikimedia.org/wikipedia/commons/3/37/ANSI_Keyboard_Layout_Diagram_with_Form_Factor.svg)
+![ANSI layout](https://upload.wikimedia.org/wikipedia/commons/3/37/ANSI_Keyboard_Layout_Diagram_with_Form_Factor.svg)
 
 - `US` < `DE`
 
@@ -54,3 +54,7 @@ Cheat Sheet for German keyboards
 - `>` < `:` (greater-than sign)
 - `\` < `#` or `<` (backslash)
 - `|` < `'` or `>` (pipe, vertical bar)
+
+### Sources
+
+- Diagram of ANSI layout: https://commons.wikimedia.org/wiki/File:ANSI_Keyboard_Layout_Diagram_with_Form_Factor.svg
